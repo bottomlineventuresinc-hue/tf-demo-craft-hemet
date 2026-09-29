@@ -73,7 +73,7 @@
       id: 'service',
       apply: function () {
         if (serviceFirst) {
-          serviceFirst.textContent = 'Kitchen remodels (written scope)';
+          serviceFirst.textContent = 'Residential remodels (written scope)';
         }
       }
     }

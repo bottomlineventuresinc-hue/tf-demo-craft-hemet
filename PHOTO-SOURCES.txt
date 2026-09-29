@@ -5,15 +5,15 @@ Every file opened and checked for trade fit and job-label fit. No face is used o
 Sample B/A photos are labeled on page as stock images typical of this kind of job.
 
 hero-site.jpg <- cr0925/rem-framing-plans.jpg : Housing rehabilitation (rawpixel CC0 https://www.rawpixel.com/image/9659003/housing-rehabilitation)
-services-trade.jpg <- cr0925/rem-level-hands.jpg : Level Construction (stocksnap CC0 https://stocksnap.io/photo/level-construction-5HW69DS6ER)
-people-crew.jpg <- cr0925/rem-hammer.jpg : Hammer Tool (stocksnap CC0 https://stocksnap.io/photo/hammer-tool-XQWS5SOONG)
+services-trade.jpg <- cr0925/rem-hammer.jpg : Hammer Tool (stocksnap CC0 https://stocksnap.io/photo/hammer-tool-XQWS5SOONG)
+people-crew.jpg <- cr0925/rem-house-framed.jpg : House construction (rawpixel CC0 https://www.rawpixel.com/image/6022834/photo-image-frame-public-domain-wood)
 people-marek.jpg <- cr0925/rem-framing-single.jpg : rem-framing-single (rawpixel CC0 https://www.rawpixel.com/image/6055151/free-public-domain-cc0-photo)
-people-tom.jpg <- cr0925/rem-kitchen-island.jpg : Free kitchen interior design image (rawpixel CC0 https://www.rawpixel.com/image/5919921/photo-image-light-public-domain-shadow)
+people-tom.jpg <- wave11/house-gabled-lawn.jpg : gabled single-family home with lawn (prior verified library wave2/house-suburb.jpg)
 coverage-house.jpg <- wave11/house-stucco-ie.jpg : stucco single-story home, Southwest style (StockSnap CC0 L9VZ6SOGBB)
-rem-demo-lumber.jpg <- cr0925/rem-demo-lumber.jpg : Old boards with nails from home renovation demolition (wordpress CC0 https://wordpress.org/photos/photo/42263030bb/)
-rem-kitchen-farmhouse.jpg <- cr0925/rem-kitchen-farmhouse.jpg : Free white kitchen interior design (rawpixel CC0 https://www.rawpixel.com/image/5919940/photo-image-light-public-domain-shadow)
+rem-framing-interior.jpg <- cr0925/rem-framing-interior.jpg : House framing (rawpixel CC0 https://www.rawpixel.com/image/4029901/photo-image-wood-construction-building)
 rem-room-drywall.jpg <- cr0925/rem-room-drywall.jpg : Room Window (stocksnap CC0 https://stocksnap.io/photo/room-window-T3QP4DRXS2)
-rem-bath-vanity-window.jpg <- cr0925/rem-bath-vanity-window.jpg : Double Vanity with Hexagon Sinks (rawpixel CC0 https://www.rawpixel.com/image/6082593/double-vanity-with-hexagon-sinks)
+rem-demo-lumber.jpg <- cr0925/rem-demo-lumber.jpg : Old boards with nails from home renovation demolition (wordpress CC0 https://wordpress.org/photos/photo/42263030bb/)
+rem-level-hands.jpg <- cr0925/rem-level-hands.jpg : Level Construction (stocksnap CC0 https://stocksnap.io/photo/level-construction-5HW69DS6ER)
 roof-felt-battens.jpg <- wave12/roof-felt-battens.jpg : Roofing felt being rolled out over roof battens; no people (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Roofing_felt_(%D1%83%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0_%D1%80%D1%83%D0%B1%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D0%B0_%D0%BD%D0%B0_%D0%BE%D0%B1%D1%80%D0%B5%D1%88%D1%91%D1%82%D0%BA%D1%832).jpg)
 house-dusk.jpg <- wave11/house-dusk.jpg : two-story suburban home at dusk (StockSnap CC0 LJ515CPAKI)
 
