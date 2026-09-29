@@ -1,0 +1,20 @@
+PHOTO SOURCES · hs-056-craft Craft Construction (Wave 12 2026-09-29 PT)
+All CC0 / public domain (Wikimedia Commons CC0/PD, Flickr CC0/PDM, rawpixel CC0, StockSnap CC0, WordPress Photos CC0) or prior verified Wave library.
+New Wave 12 files: see builds/_assets_dl/wave12/LICENSES.md for source URLs and licenses.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
+
+hero-site.jpg <- cr0925/rem-framing-plans.jpg : Housing rehabilitation (rawpixel CC0 https://www.rawpixel.com/image/9659003/housing-rehabilitation)
+services-trade.jpg <- cr0925/rem-level-hands.jpg : Level Construction (stocksnap CC0 https://stocksnap.io/photo/level-construction-5HW69DS6ER)
+people-crew.jpg <- cr0925/rem-hammer.jpg : Hammer Tool (stocksnap CC0 https://stocksnap.io/photo/hammer-tool-XQWS5SOONG)
+people-marek.jpg <- cr0925/rem-framing-single.jpg : rem-framing-single (rawpixel CC0 https://www.rawpixel.com/image/6055151/free-public-domain-cc0-photo)
+people-tom.jpg <- cr0925/rem-kitchen-island.jpg : Free kitchen interior design image (rawpixel CC0 https://www.rawpixel.com/image/5919921/photo-image-light-public-domain-shadow)
+coverage-house.jpg <- wave11/house-stucco-ie.jpg : stucco single-story home, Southwest style (StockSnap CC0 L9VZ6SOGBB)
+rem-demo-lumber.jpg <- cr0925/rem-demo-lumber.jpg : Old boards with nails from home renovation demolition (wordpress CC0 https://wordpress.org/photos/photo/42263030bb/)
+rem-kitchen-farmhouse.jpg <- cr0925/rem-kitchen-farmhouse.jpg : Free white kitchen interior design (rawpixel CC0 https://www.rawpixel.com/image/5919940/photo-image-light-public-domain-shadow)
+rem-room-drywall.jpg <- cr0925/rem-room-drywall.jpg : Room Window (stocksnap CC0 https://stocksnap.io/photo/room-window-T3QP4DRXS2)
+rem-bath-vanity-window.jpg <- cr0925/rem-bath-vanity-window.jpg : Double Vanity with Hexagon Sinks (rawpixel CC0 https://www.rawpixel.com/image/6082593/double-vanity-with-hexagon-sinks)
+roof-felt-battens.jpg <- wave12/roof-felt-battens.jpg : Roofing felt being rolled out over roof battens; no people (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Roofing_felt_(%D1%83%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0_%D1%80%D1%83%D0%B1%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D0%B0_%D0%BD%D0%B0_%D0%BE%D0%B1%D1%80%D0%B5%D1%88%D1%91%D1%82%D0%BA%D1%832).jpg)
+house-dusk.jpg <- wave11/house-dusk.jpg : two-story suburban home at dusk (StockSnap CC0 LJ515CPAKI)
+
+Note: Same city as hs-055 Alexander Roofing: remodel-first H1, different hero/sample/coverage photos. The packet's parked and unrelated same-name domains are NOT used or linked.
